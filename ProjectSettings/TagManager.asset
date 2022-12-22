@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WAR
   - WALL
+  - SOUL
   layers:
   - Default
   - TransparentFX
